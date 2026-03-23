@@ -1,4 +1,4 @@
-##if code are not vidible copy all codes
+##if code are not visibles copy all codes
 
 1 app.py
 
